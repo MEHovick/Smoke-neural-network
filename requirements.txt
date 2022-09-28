@@ -1,0 +1,11 @@
+torch
+opencv-python
+albumentations
+matplotlib
+segmentation_models_pytorch
+tqdm
+imutils
+torchmetrics
+scikit-learn
+notebook
+ipywidgets
