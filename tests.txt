@@ -17,3 +17,11 @@ timm-regnetx_320 - 105M
 1 - AVG accu: 0.7810
 2 - AVG accu: 0.7853
 3 - AVG accu: 0.8092
+
+
+MAnet
+1 - AVG accu: 0.8474
+2 - AVG accu: 0.8309
+3 - AVG accu: 0.8334
+
+
