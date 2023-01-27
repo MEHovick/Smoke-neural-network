@@ -1,8 +1,5 @@
 .venv
 .vscode
 .ipynb_checkpoints
-EPOCH/
 BEST model/
-DATASET/XPIE
-DATASET/XPIE_masks
-XPIE.pth
+*.pth
